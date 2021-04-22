@@ -1,0 +1,97 @@
+{
+    "title":"Hello ,I Am Amir",
+    "skills":[
+        {
+            "title": "FullStack Developer",
+            "description":"",
+            "icon":"",
+            "color":"",
+            "onSub":true
+
+        },
+        {
+            "title": "Voice Actor",
+            "description":"",
+            "icon":"",
+            "color":"",
+            "onSub":true
+
+        }
+        ,       
+         {
+            "title": "Blogger",
+            "description":"",
+            "icon":"",
+            "color":"",
+            "onSub":true
+
+        }
+        ,
+        {
+            "title": "PHP",
+            "description":"i created many webpages with php ",
+            "icon":"php.png",
+            "color":"red",
+            "onSub":false
+
+        }
+        ,       
+         {
+            "title": "HTML5",
+            "description":"every pages in my projects created in html5",
+            "icon":"html5.png",
+            "color":"blue",
+            "onSub":false
+
+        }
+        ,        {
+            "title": "C#",
+            "description":"i love create windows app with my favorite language c#",
+            "icon":"visual-basic.png",
+            "color":"green",
+            "onSub":false
+
+        }
+        ,        {
+            "title": "css/scss",
+            "description":"graphic and layout is very important in web design and i  work with css and scss for that",
+            "icon":"css.png",
+            "color":"purple",
+            "onSub":false
+
+        }
+,  {
+    "title": "bootstrap",
+    "description":"today every people have a mobile device and they are check anything online with th",
+    "icon":"smartphone.png",
+    "color":"blue",
+    "onSub":false
+
+}
+,  {
+    "title": "jquery",
+    "description":"every animation and ajax requests in my websites created by jquery ",
+    "icon":"jquery.png",
+    "color":"yellow",
+    "onSub":false
+
+}
+
+
+    ]
+,"socials":{
+    "linkedin":"www.linkedin.com/in/amirshams-com",
+    "github":"https://github.com/amirshams-com",
+    "stackoverflow":"https://stackoverflow.com/story/amirshams",
+    "twitter":"https://twitter.com/"
+}
+,"myinfo":{
+    "title":"Info",
+    "Description":{
+        "row":"hi my dear friend ",
+        "row2":"my name is amir shams and iam 28 yo ",
+        "row3":"i am a fullstack web dev and i want create powerful website and app for every people in the world",
+        "row4":" and i hope my dream come to real "
+    }
+}
+}

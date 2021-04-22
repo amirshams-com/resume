@@ -1,0 +1,49 @@
+.cards li {
+  width: 33%;
+
+  display: inline-block;
+}
+.cards li div {
+  width: 70%;
+  height: 280px;
+  margin: 0 auto;
+  border-radius: 50px;
+  margin-bottom: 40px;
+  transition: background-color 0.2s;
+  overflow: scroll;
+}
+.cards h5 {
+  text-align: center;
+  font-size: 30px;
+  color: white;
+}
+.cards img {
+  width: 64px;
+  height: 64px;
+  display: block;
+  margin: 0 auto;
+  padding: 15px 0;
+}
+.cards p {
+  width: 80%;
+  font-size: 20px;
+  font-weight: lighter;
+  color: rgb(8, 8, 8);
+  text-align: center;
+  line-height: 1.3em;
+}
+.cards div:hover {
+  background-color: rgb(161, 161, 161) !important;
+  color: black !important;
+  cursor: pointer;
+}
+@media (max-width: 768px) {
+  .cards li {
+    width: 50%;
+  }
+}
+@media (max-width: 450px) {
+  .cards li {
+    width: 100%;
+  }
+}
